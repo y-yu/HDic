@@ -63,10 +63,10 @@
 		E8549F7E1D05852700CBD361 /* HDic */ = {
 			isa = PBXGroup;
 			children = (
-				E8549F8E1D05963000CBD361 /* HDic.swift */,
-				E8549F7F1D05852700CBD361 /* main.swift */,
 				E8549F881D05874700CBD361 /* AnyKey.swift */,
 				E8BCEA161D0DAF02002FFBD5 /* Relation.swift */,
+				E8549F8E1D05963000CBD361 /* HDic.swift */,
+				E8549F7F1D05852700CBD361 /* main.swift */,
 			);
 			path = HDic;
 			sourceTree = "<group>";
